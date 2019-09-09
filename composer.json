@@ -20,9 +20,8 @@
 		"source": "https://github.com/gstypo3/styleguide-distribution"
 	},
 	"require": {
-        "typo3/minimal": "^9.5.0",
-        "typo3/cms-styleguide": "^9.2.4",
-        "typo3-console/composer-auto-commands": "^0.3.0"
+        "typo3/minimal": "^10.0.0",
+        "typo3/cms-styleguide": "^10.0.3"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,

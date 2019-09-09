@@ -1,5 +1,5 @@
 {
-	"name": "typo3/cms-styleguide-distribution",
+	"name": "gstypo3/cms-styleguide-distribution",
 	"description" : "TYPO3 CMS Styleguide Distribution",
 	"type": "project",
 	"keywords": ["TYPO3 CMS", "Styleguide", "Distribution", "Gilbertsoft"],

@@ -6,6 +6,14 @@ Get going quickly with TYPO3 CMS Styleguide.
 
 * [ddev](https://ddev.readthedocs.io/en/stable/#installation)
 
+## Branches
+
+For each TYPO3 CMS major release exists a corresponding branch. Please head to the desired branch and follow the installation steps:
+
+* [TYPO3 CMS 10.0 LTS](https://github.com/gstypo3/styleguide-distribution)
+* [TYPO3 CMS 9.5 LTS](https://github.com/gstypo3/styleguide-distribution/tree/9.5)
+* [TYPO3 CMS 8.7 LTS](https://github.com/gstypo3/styleguide-distribution/tree/8.7)
+
 ## Installation
 
 1. Clone the repository `git clone -q --depth=1 --branch=8.7 https://github.com/gstypo3/styleguide-distribution.git styleguide`

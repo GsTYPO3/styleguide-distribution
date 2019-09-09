@@ -1,0 +1,37 @@
+{
+	"name": "typo3/cms-styleguide-distribution",
+	"description" : "TYPO3 CMS Styleguide Distribution",
+	"type": "project",
+	"keywords": ["TYPO3 CMS", "Styleguide", "Distribution", "Gilbertsoft"],
+	"homepage": "https://github.com/gstypo3/styleguide-distribution",
+	"readme": "https://github.com/gstypo3/styleguide-distribution/blob/master/README.md",
+	"license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Simon Gilli",
+            "email": "typo3@gilbertsoft.org",
+            "homepage": "https://typo3.gilbertsoft.org",
+            "role": "Developer"
+        }
+    ],
+	"support": {
+		"email": "typo3@gilbertsoft.org",
+		"issues": "https://github.com/gstypo3/styleguide-distribution/issues",
+		"source": "https://github.com/gstypo3/styleguide-distribution"
+	},
+	"require": {
+        "typo3/minimal": "^9.5.0",
+        "typo3/cms-styleguide": "^9.2.4",
+        "typo3-console/composer-auto-commands": "^0.3.0"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"repositories": [
+		{ "type": "composer", "url": "https://composer.typo3.org/" }
+	],
+	"config": {
+		"platform": {
+			"php": "7.2"
+		}
+	}
+}

@@ -1,0 +1,5 @@
+/.vscode/*
+/public/*
+/var/*
+/vendor/*
+/composer.lock

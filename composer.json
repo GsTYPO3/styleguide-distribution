@@ -20,8 +20,8 @@
 		"source": "https://github.com/gstypo3/styleguide-distribution"
 	},
 	"require": {
-        "typo3/minimal": "^9.5.0",
-        "typo3/cms-styleguide": "^9.2.4",
+        "typo3/minimal": "^8.7.0",
+        "typo3/cms-styleguide": "^8.0.16",
         "typo3-console/composer-auto-commands": "^0.3.0"
 	},
 	"minimum-stability": "dev",
@@ -32,6 +32,11 @@
 	"config": {
 		"platform": {
 			"php": "7.2"
+		}
+	},
+	"extra": {
+		"typo3/cms": {
+			"web-dir": "public"
 		}
 	}
 }

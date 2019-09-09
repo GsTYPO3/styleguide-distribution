@@ -8,10 +8,10 @@ Get going quickly with TYPO3 CMS Styleguide.
 
 ## Installation
 
-1. Clone the repository `git clone -q --depth=1 --branch=9.5 https://github.com/gstypo3/styleguide-distribution.git styleguide`
+1. Clone the repository `git clone -q --depth=1 --branch=8.7 https://github.com/gstypo3/styleguide-distribution.git styleguide`
 1. Run `cd styleguide`
 1. Run `ddev start`
-1. Head to `https://typo3-styleguide.ddev.site/` in your browser and finsh the installation
+1. Head to `https://typo3-styleguide.ddev.site/` in your browser and finsh the installation (ignore the warning about the trusted host pattern)
 1. Activate Styleguide features at the help menu in the backend
 
 ## Introduction

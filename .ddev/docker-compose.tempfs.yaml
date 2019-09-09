@@ -4,6 +4,6 @@ services:
   web:
     volumes:
       - type: tmpfs
-        target: /var/www/html/var/cache
+        target: /var/www/html/public/typo3temp/var/cache
         tmpfs:
           size: 268435456

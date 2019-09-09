@@ -16,8 +16,8 @@ Get going quickly with TYPO3 CMS Styleguide.
 
 ## Introduction
 
-[Feature Demo - Style Guide Part 1](https://youtu.be/AeG0s54MHGE)
-[Feature Demo - Style Guide Part 2](https://youtu.be/OG6YZwlHEjU)
+* [Feature Demo - Style Guide Part 1](https://youtu.be/AeG0s54MHGE)
+* [Feature Demo - Style Guide Part 2](https://youtu.be/OG6YZwlHEjU)
 
 ## License
 
